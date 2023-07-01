@@ -1,0 +1,3 @@
+C:\Users\Wojtek\Desktop\Pulpit\Studia\Studia PLIKI\4 sem\c++ projekty\main\x64\Debug\main.exe
+C:\Users\Wojtek\Desktop\programy malina\snake\x64\Debug\main.exe
+C:\Users\Wojtek\Desktop\projekty\snake\x64\Debug\main.exe
